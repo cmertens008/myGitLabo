@@ -1,1 +1,1 @@
-ver2 ceci est nu commit depuis le tronc
+branche B
